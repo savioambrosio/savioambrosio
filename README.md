@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 ![savioambrosio](https://github-readme-stats.vercel.app/api?username=savioambrosio&show_icons=true&theme=radical)
 
-###Tecnologias que eu uso no meu dia
+##Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
   <img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
