@@ -1,4 +1,4 @@
-### Hi iam Sávio Ambrósio and iam programer and developer👋
+### Hi iam Sávio Ambrósio iam programer and developer👋
 
 Here are some ideas to get you started:
 
