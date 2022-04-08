@@ -1,6 +1,6 @@
-### Hi iam Sávio Ambrósio iam programer and developer👋
+## Hi iam Sávio Ambrósio iam programer and developer👋
 
-## Here are some ideas to get you started:
+### Here are some ideas to get you started:
 
 😄 Programer
 ⚡ Fun fact
@@ -9,7 +9,7 @@
 
 ![savioambrosio](https://github-readme-stats.vercel.app/api?username=savioambrosio&show_icons=true&theme=radical)
 
-## Technologies I use in the day
+### Technologies I use in the day
 
 <div style="display: inline_block">
   <img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
