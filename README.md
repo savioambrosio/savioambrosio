@@ -6,6 +6,7 @@
 ⚡ Fun fact
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://web.whatsapp.com/send?phone=+244945512220)
+<img alt="css" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 
 ![savioambrosio](https://github-readme-stats.vercel.app/api?username=savioambrosio&show_icons=true&theme=radical)
 
