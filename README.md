@@ -24,8 +24,6 @@
   <img alt="css" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </div>
 
-<img alt="css" src="	https://github-readme-stats.vercel.app/api/top-langs/?username={username}">
-
 ### Databases
 
 <div style="display: inline_block">
