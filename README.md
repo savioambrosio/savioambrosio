@@ -13,6 +13,8 @@
   <a href="https://www.linkedin.com/in/savio-ambrósio-100a18257/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+
 ###
 ![savioambrosio](https://github-readme-stats.vercel.app/api?username=savioambrosio&show_icons=true&theme=radical)
 
